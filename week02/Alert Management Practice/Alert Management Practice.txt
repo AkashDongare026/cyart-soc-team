@@ -1,0 +1,11 @@
+
+Subject: Urgent Escalation – Critical Ransomware Alert on Server-X
+
+Hello Tier 2 Team,
+
+A critical ransomware alert has been detected on Server-X. The file crypto_locker.exe was identified, along with outbound communication to malicious IP 192.168.1.50. Initial analysis indicates possible lateral movement and early encryption activity. The server remains at high risk, and immediate containment is required to prevent further spread. Tier 1 has isolated the host and collected preliminary logs. Additional investigation is needed to confirm the infection scope and identify affected assets.
+
+Please take over for advanced analysis and response.
+
+Regards,
+SOC Analyst
